@@ -1,0 +1,28 @@
+.colorBox{
+	cursor:pointer;
+	width:25px;
+	height:25px;
+	display:inline-block;
+}
+
+.whiteBox{background-color:#fff;color:#fff;}
+.blueBox{background-color:#32adff;color:#32adff;}
+.greenBox{background-color:#19E200;color:#19E200;}
+.purpleBox{background-color:#dc60ff;color:#dc60ff;}
+.yellowBox{background-color:#ffe900;color:#ffe900;}
+.redBox{background-color:#ff1414;color:#ff1414;}
+.orangeBox{background-color:#ffa814;color:#ffa814;}
+
+.boxBorder{
+	border:1px solid #ccc;
+}
+
+.feedBox{
+	font-size:0.8em;
+	padding:2px 2px 2px 4px;
+	background-color:#333; 
+	margin-bottom:15px;
+}
+.feedDefaultColor{
+	color:#19E200;
+}
